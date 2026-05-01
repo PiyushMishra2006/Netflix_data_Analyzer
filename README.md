@@ -117,7 +117,7 @@ The project includes multiple visualizations:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PiyushMishra2006/Netflix_data_Analyzer
+   git clone https://github.com/PiyushMishra2006/Netflix_data_Analyzer.git/
    ```
 
 2. Install dependencies:
